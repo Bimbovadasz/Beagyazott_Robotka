@@ -1,0 +1,6 @@
+C:\Users\guest\Documents\Random agymenes\Beagyazott\Robotka\Robotka_1.cydsn\Robotka_1.cyprj|4f0ab95c-d549-4b06-9b1b-fc399375ff3a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d33a05fe-8768-4027-a82b-0a8c311b92e6
+C:\Users\guest\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|88fcbe41-cac8-4bc4-8943-19e12995676f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|13b41de2-8330-42d6-a34a-dae4c2c3b427
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|dfb48eb2-a4d5-4871-998f-53d7fbb26deb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|fce8fe07-95b0-4efe-856b-7fc06cf5f193
